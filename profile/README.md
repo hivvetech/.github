@@ -1,3 +1,15 @@
-![hivve_banner (1)](https://user-images.githubusercontent.com/87218222/224898737-e6a271c9-5ae3-4338-a54b-0ef2a33bb44e.jpg)
+<p align="center">
+  <img width="900" alt="Linkedin Company" src="https://github.com/user-attachments/assets/29b4154c-7d6d-4b17-a774-51762cffa6c4" />
+</p>
 
-Since 2009, hivve has worked with leading research organisations, charities, not-for-profits, universities and other sectors globally to help them capture, measure and report the impact of their work.
+<br>
+
+So much meaningful work is happening in the world, yet most of it goes unseen. **Hivve changes that.**
+
+We are a leading global technology and advisory company built for organisations that need to communicate the impact of their work — to funders, boards, investors, and the communities they serve.
+
+Our software gives organisations a single place to capture data, measure, manage, and report their impact over time. Alongside the platform, our expert advisory team partners with organisations to build the frameworks, processes, and internal capability to make impact reporting a genuine strategic asset that demonstrates the difference their work makes in the world.
+
+For more than 15 years, we've worked with **6,000+ users** across **50+ organisations** in **10+ countries** — from universities, research institutions, and funders, to philanthropic organisations, impact funds, and purpose-led businesses.
+
+We believe that when impact is clearly evidenced and measurable, it does more than tell a story: it attracts support, unlocks investment, and enables important work to go further.
