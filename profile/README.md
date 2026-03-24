@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" alt="Linkedin Company" src="https://github.com/user-attachments/assets/29b4154c-7d6d-4b17-a774-51762cffa6c4" />
+<img width="2188" height="832" alt="Github Banner" src="https://github.com/user-attachments/assets/3d5d7dbe-4c36-47fb-96b5-363c03a9e34e" />
 </p>
 
 <br>
